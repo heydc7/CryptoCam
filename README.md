@@ -38,4 +38,4 @@ The purpose behind this Playground was to demonstrate a new concept of how Machi
 
 Thank you for checking out my playground!
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cryptocam)
