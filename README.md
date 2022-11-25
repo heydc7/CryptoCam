@@ -1,7 +1,7 @@
 # CryptoCam
 Swift Student Challenge Submission | WWDC 2021
 
-### :zap: [WatchPreview](https://youtu.be/gMEdtcLDdGU) :zap:
+### :zap: [WatchPreview](https://youtu.be/gMEdtcLDdGU) :zap: [ResearchPaper](https://www.ijert.org/cryptocam-an-approach-to-enhance-cryptography-with-machine-learning) :zap:
 
 ![wwdcThumb](https://user-images.githubusercontent.com/39642060/115715144-80207f00-a395-11eb-9ee3-b7ba7eeb9088.png)
 
